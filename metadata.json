@@ -1,0 +1,6 @@
+{
+  "name": "Alfonso Silva Real Estate",
+  "description": "High-converting single-page website for Alfonso Silva, an independent real estate agent in Miami offering 24/7 service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
