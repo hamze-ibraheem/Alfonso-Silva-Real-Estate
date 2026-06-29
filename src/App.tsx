@@ -13,6 +13,7 @@ import FAQ from './components/FAQ';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import WhatsAppWidget from './components/WhatsAppWidget';
+import PromoWidget from './components/PromoWidget';
 import { LanguageProvider } from './context/LanguageContext';
 import { ThemeProvider } from './context/ThemeContext';
 
@@ -46,6 +47,7 @@ export default function App() {
             <Contact />
           </main>
           <WhatsAppWidget />
+          <PromoWidget />
           <Footer />
         </div>
       </LanguageProvider>
